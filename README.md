@@ -42,7 +42,6 @@ Your company is updating its website. They ask you to make your development team
 
 I learned how to use flexboxed, media queries, html elements and many more.
 
-To see how you can add code snippets, see below:
 
 ```html
 - Creat structure of the HTML5
