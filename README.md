@@ -50,9 +50,11 @@ I learned how to use flexboxed, media queries, html elements and many more.
 ```
 ```css
   @media screen and (max-width: 1090px)) {
+  .....
 }
 and
   @media screen and (max-width: 800px){
+  .....
 }
 
 ```
