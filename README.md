@@ -29,4 +29,4 @@ Your company is updating its website. They ask you to make your development team
 
 ### Links
 
-- Live site: (Live Website](https://sezginakgul.github.io/team-member/)
+- Live site: [Live Website](https://sezginakgul.github.io/team-member/)
