@@ -48,6 +48,14 @@ I learned how to use flexboxed, media queries, html elements and many more.
 - Give name of your project (title)
 - Create the main structur of the HTML
 ```
+```css
+  @media screen and (max-width: 1090px)) {
+}
+and
+  @media screen and (max-width: 800px){
+}
+
+```
 
 ```css
 - You can apply all the technologies you learn. (Flexbox, Grid)
