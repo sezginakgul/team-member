@@ -23,5 +23,5 @@ Your company is updating its website. They ask you to make your development team
 ### Screenshot
 
 <p align="center">
-<a href="https://bavi-boop.github.io/team-members-website/"><img src="team.png" alt="screenshot" width="720" height="620"></a>
+<a href="https://sezginakgul.github.io/team-member/"><img src="project-screenshot.png" alt="screenshot" width="720" height="620"></a>
 </p>
