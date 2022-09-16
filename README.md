@@ -35,6 +35,14 @@ Your company is updating its website. They ask you to make your development team
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
+- CSS Grid
+- Mobile-first workflow
+- Styled Components - For styles
+- HTML Forms-Input Types
+- HTML Form Elements
+- CSS Colors-Border Properties
+- CSS Margins-Padding
+- CSS Properties for Texts-Font Families-Links
 
 ### What I learned
 
